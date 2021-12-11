@@ -1,0 +1,5 @@
+build:
+  docker:
+    worker: Snehu
+run:
+  worker: python3 -m Snehabhi
